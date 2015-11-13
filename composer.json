@@ -1,0 +1,22 @@
+{
+  "name": "yocome/baichuan",
+  "description": "淘宝百川SDK",
+  "keywords": ["baichuan","taobao","lumen","laravel","sdk"],
+  "homepage": "https://github.com/yocome/baichuan",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {
+    "php":">=5.4.0"
+  },
+  "authors": [
+    {
+      "name": "A.ddy",
+      "email": "yocome@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4":{
+      "Yocome\\Baichuan\\": "src/"
+    }
+  }
+}
